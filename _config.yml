@@ -1,5 +1,5 @@
-title: Replace this line with your name
-description: A template for your AOS C111/204 project site.
-logo: /assets/IMG/template_logo.png
+title: Predicting Pre-Diabetes and Diabetes Risk Using NHANES Data
+description: Predictive model of diabetes risk based on the National Health and Nutrition Examination Survey (NHANES) between August 2021 and August 2023.
+logo: /assets/IMG/diabeteslogo.png
 show_downloads: true
 theme: jekyll-theme-modernist
