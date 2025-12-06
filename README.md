@@ -8,3 +8,9 @@ AOS C111 Machine Learning for Physical Sciences
 
 Alexander Lozinski
 
+
+Data Source: [NHANES August 2021-August 2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+
+Python Code: [Google Colab](https://colab.research.google.com/drive/1037n9WgZeA5BJiXz2h6aAjFjwqNQzILQ?usp=sharing)
+
+Final model and results can be found in my report [here](https://docs.google.com/document/d/131JyqYOJ7xGu9gRBeMtYUxKu4si-gn2JPIoK0ZCDARw/edit?usp=sharing)
