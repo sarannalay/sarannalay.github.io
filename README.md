@@ -1,4 +1,4 @@
-**Machine Learning-Based Prediction of Prediabetes Risk in Individuals of Childbearing Potential Using Post-Pandemic NHANES Data (2021-2023)** <img align="right" width="220" height="220" src="/assets/IMG/diabeteslogo.png">
+**Machine Learning-Based Prediction of Prediabetes Risk in Women Using Post-Pandemic NHANES Data (2021-2023)** <img align="right" width="220" height="220" src="/assets/IMG/diabeteslogo.png">
 
 By Saranna Lay
 
